@@ -12,6 +12,7 @@
 -	Publications and Awards
 
 LinkedIn has developed Resume Assistant: https://support.office.com/en-us/article/use-resume-assistant-and-linkedin-for-great-resumes-444ff6f0-ef74-4a9c-9091-ffd7a9d1917a?ui=en-US&rs=en-US&ad=US
+
 TagCrowd can improve your resume: https://myfutureinfocus.wordpress.com/2011/08/18/how-to-write-a-resume-employers-love-to-read-using-tagcrowd-com/
 
 ## TRENDING TOPICS
